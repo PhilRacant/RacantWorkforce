@@ -1,0 +1,36 @@
+.carousel-image-wrapper {
+    position: relative;
+    height: 75vh;
+    overflow: hidden;
+}
+
+.carousel-image-wrapper img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.carousel-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.45);
+}
+
+.carousel-caption {
+    bottom: 0;
+    top: 0;
+}
+
+.sector-card {
+    border: 1px solid #eee;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.sector-top-border {
+    height: 6px;
+    background-color: #FFD500; /* Racant yellow */
+}
