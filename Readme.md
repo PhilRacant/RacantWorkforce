@@ -1,1 +1,1 @@
-Racant Workforce Static Site 08/03/26 V1.0
+Racant Workforce Static Site 08/03/26 V1.1
